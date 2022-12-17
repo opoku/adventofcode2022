@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
 use v5.14;
-use Data::Dumper;
 
 my %sizes;
 my @cur_dir = ();
